@@ -1,0 +1,26 @@
+{
+  "name": "apigee-graphql",
+  "version": "1.0.0",
+  "description": "poc for graphql with apigee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suchithegde/apigee-graphql.git"
+  },
+  "author": "suchith.hegde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suchithegde/apigee-graphql/issues"
+  },
+  "homepage": "https://github.com/suchithegde/apigee-graphql#readme",
+  "dependencies": {
+    "apollo-server-cloud-functions": "^3.10.0",
+    "graphql": "^16.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
